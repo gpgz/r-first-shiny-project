@@ -1,4 +1,4 @@
-This is the story
+This the story
 
 of Noreen
 
@@ -15,6 +15,9 @@ Noreen said let there be tax
 and no one could follow
 
 Mad that no one could follow
+=======
+Peter 
+>>>>>>> c25c9c39f1269c1538ddb37d6a1a1993c54afa24
 
 Noreen rewrote the entire ITA
 
